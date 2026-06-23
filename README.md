@@ -1,2 +1,5 @@
-<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://camo.githubusercontent.com/58cc2bd0902c897ac2a1d9599205f86057e2252a587e87abf2e4467b618c1ad8/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d6369616d39796d7533376d6c6668396f66376770756939647626636f7665725f696d6167653d74727565267468656d653d64656661756c742673686f775f6f66666c696e653d66616c7365266261636b67726f756e645f636f6c6f723d31323132313226696e7465726368616e67653d66616c73652670726f66616e6974793d66616c736526686964655f72656d61737465723d66616c7365" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.kittinanx.com/api/view?uid=ciam9ymu37mlfh9of7gpui9dv&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" style="max-width: 100%;">
-</a>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yxrbpjh3riptjrkcfyj7qoulva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
