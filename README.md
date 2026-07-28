@@ -8,7 +8,7 @@
 </math></math-renderer></p>
 <p dir="auto">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="4b18fd4ee59bf5d40b279a2f9739221d" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mrow data-mjx-texclass="ORD">
-    <mtext mathvariant="sans-serif" mathcolor="#dc1468">&nbsp;　⟡　　minor　　　𓎢𓎟 　　𖹭　　Taken!!　　　﹒ᶻz　ESFJ　　⋮ 　&nbsp;</mtext>
+    <mtext mathvariant="sans-serif" mathcolor="#dc1468">&nbsp;　⟡　　minor　　　𓎢𓎟 　　𖹭　　single　　　﹒ᶻz　ESFJ　　⋮ 　&nbsp;</mtext>
   </mrow>
 </math></math-renderer></p>
 <p dir="auto">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ <math-renderer class="js-inline-math" style="display: inline-block" data-run-id="4b18fd4ee59bf5d40b279a2f9739221d" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
